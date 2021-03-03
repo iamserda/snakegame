@@ -259,7 +259,6 @@ body.container {
 @media (max-width: 600px) {
     body.container {
         width: 100%;
-        max-width: 400px;
     }
 
     .appContainer {
